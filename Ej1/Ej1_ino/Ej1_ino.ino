@@ -1,7 +1,7 @@
 /* Ejemplo 1 FLISOL 2015*/
 /* LEDS Y PULSADORES*/
 /* Amid Ale */
-
+/* Cooperativa Axón */
 int estado = 0;                    //variable estado que almacena el valor actual del pulsador
 
 void setup()

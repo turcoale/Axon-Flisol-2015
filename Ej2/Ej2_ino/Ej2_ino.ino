@@ -1,6 +1,7 @@
 /* Ejemplo 2 FLISOL 2015*/
 /* COMUNICACION */
 /* Amid Ale */
+/* Cooperativa Axón */
 
 #define MIN 0
 #define MAX 100
